@@ -18,7 +18,7 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "^2.2.5",
-    "should": "^7.1.0"
+    "should": "^13.2.3"
   },
   "dependencies": {
     "passport-oauth": "^1.0.0",
